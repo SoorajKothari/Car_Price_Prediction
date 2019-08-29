@@ -1,0 +1,20 @@
+No Dublicates
+No Null values
+Linear Regression:
+	Split data:
+		Train size = 65%
+		Test Size = 35%
+	Score = 0.886319
+	Accuracy = 88.6
+	cross Validation:
+		Score at CV=4 = 0.6878900 (68%)
+
+
+Random Forest:
+	Split data:
+		Train size = 65%
+		Test Size = 35%
+	Score = 0.942424126
+	Accuracy = 92.2424
+	cross Validation:
+		Score at CV=4 = 0.8388547 (83%)
